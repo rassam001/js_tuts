@@ -1,3 +1,3 @@
 # JavaScript Tutorials.
 
-here is some examples and exercices of JS.
+here is some examples and exercises of JS.
