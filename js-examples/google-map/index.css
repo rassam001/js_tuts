@@ -1,0 +1,19 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+header{
+    padding: 1em;
+    background: #c7d6f3;
+}
+header h1{
+    text-align: center;
+    color: #fff;
+}
+#google-map{
+    margin: 0 auto;
+    height: 70%;
+    width: 90%;
+    background: #cccccc;
+}
